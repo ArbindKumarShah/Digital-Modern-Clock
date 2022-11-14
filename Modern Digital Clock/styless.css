@@ -1,0 +1,9 @@
+.container {
+    text-align: center;
+    border: solid 2px black;
+    width: 10px;
+}
+
+b {
+    color: rgb(37, 131, 100);
+}
